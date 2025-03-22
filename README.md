@@ -1,2 +1,3 @@
 # DL_MaskRCNN
 Mask R-CNN for Object Detection and Instance Segmentation
+In this project, we implemented Mask R-CNN to explore its practical implications, training the model from scratch and evaluating its performance on real-world datasets. We analyzed its efficiency, assessed its strengths and limitations, and identified challenges encountered during implementation. This report details our approach, the obstacles we faced, and potential areas for optimization to enhance Mask R-CNN’s applicability in real-world scenarios. Additionally, we investigate the impact of hyperparameter tuning and dataset variations on model performance. By understanding these factors, we aim to provide insights that can guide further improvements in instance segmentation techniques.
